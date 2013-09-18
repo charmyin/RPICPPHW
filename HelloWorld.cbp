@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="HelloWorld.cpp" />
+		<Unit filename="SDLDemos/test1.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
